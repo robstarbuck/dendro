@@ -1,0 +1,198 @@
+:host {
+  --tile: 1rem;
+  --logo-size: var(--tile);
+
+  --dark: #002c02;
+  --mid-dark: #2a592f;
+  --mid: #568b5d;
+  --mid-light: #84c18f;
+  --light: #b5f9c4;
+
+  --attention: #00f6cd;
+  --bg: #fffffc;
+
+  --padding: 3rem;
+  --width: calc(50vw - var(--padding) - var(--padding));
+  width: 100vw;
+  font-family: "JetBrains Mono", monospace;
+  font-size: .8rem;
+  line-height: 1.25rem;
+  display: grid;
+  grid-template-columns: 50% 50%;
+}
+
+* {
+  color: var(--dark);
+}
+
+.body {
+  display: block;
+  position: relative;
+  /* This establishes the element as a container */
+  container-type: inline-size;
+  /* Optional: Give it a name to target it specifically later */
+  container-name: layout;
+  padding: var(--padding);
+  --indent: calc((100cqw / 4));
+  display: grid;
+  gap: 1rem;
+}
+
+details {
+  margin-left: var(--indent);
+  position: relative;
+}
+
+.selected {
+  font-weight: bold;
+  position: sticky;
+  top: 4rem;
+}
+
+.selected::marker {
+  color: var(--mid-dark);
+}
+
+main>div>details {
+  margin-left: 0;
+}
+
+details::before {
+  content: "";
+  display: block;
+  height: calc(100% - var(--tile));
+  width: 1px;
+  position: absolute;
+  left: 3px;
+  bottom: 0;
+  border-left: 1px solid var(--light);
+}
+
+details:has(.selected)::before {
+  border-left: 1px solid var(--mid-dark);
+}
+
+div>a {
+  padding-left: var(--indent);
+}
+
+div>a::before {
+  content: "▶";
+}
+
+summary {
+  display: inline list-item;
+  color: var(--mid-light);
+  cursor: pointer;
+}
+
+nav {
+  gap: 1rem;
+  display: flex;
+  align-items: center;
+  font-weight: 800;
+}
+
+a {
+  all: unset;
+  color: initial;
+  cursor: pointer;
+  pointer-events: stroke;
+}
+
+[title="Name"] summary {
+  pointer-events: none;
+}
+
+summary.selected a {
+  text-decoration: underline;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+header {
+  top: 0;
+  position: sticky;
+  height: 3rem;
+  display: flex;
+  z-index: 2;
+  background: var(--bg);
+  place-items: center;
+  border: solid var(--light);
+  border-width: 1px 0px;
+}
+
+ol {
+  all: unset;
+  display: flex;
+  background: var(--bg);
+  z-index: 1;
+}
+
+article {
+  margin: 1rem 0;
+}
+
+li {
+  all: unset;
+  display: block;
+  width: var(--indent);
+}
+
+li:first-child button {
+  cursor: unset;
+}
+
+button {
+  font-weight: bold;
+  cursor: pointer;
+  text-transform: uppercase;
+}
+
+i {
+  opacity: 0.25;
+  font-size: calc(var(--tile) / 2);
+}
+
+aside > div {
+  position: sticky;
+  top: 0;
+  padding: 2rem;
+  display: flex;
+  flex-direction: column;
+  gap: calc(var(--tile) / 2);
+  background: var(--bg);
+  z-index: 10;
+}
+
+ul {
+  padding: 0;
+}
+
+aside button {
+  cursor: pointer;
+  min-height: 2rem;
+}
+
+aside label {
+  cursor: pointer;
+}
+
+[type="radio"] {
+  cursor: pointer;
+  accent-color: var(--mid);
+}
+
+aside>legend {
+  display: contents;
+}
+
+.App>a {
+  position: fixed;
+  top: calc(var(--tile) + var(--indent));
+  right: var(--tile);
+  height: var(--tile);
+  z-index: 10;
+}

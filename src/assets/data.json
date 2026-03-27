@@ -1,0 +1,964 @@
+[
+  {
+    "Name": "Alder",
+    "Taxonomy": {
+      "Species": {
+        "Description": "Alder trees belong to the genus Alnus within the birch family, Betulaceae. Most alders are deciduous, featuring alternate, simple, and serrated leaves. They are pioneer species, often among the first to colonize disturbed areas, and are commonly found in wet environments like stream banks and marshy ground. A significant ecological feature is their ability to fix nitrogen from the air through a symbiotic relationship with Frankia alni bacteria in their root nodules, which enriches the soil.",
+        "value": "Alnus glutinosa",
+        "href": "https://en.wikipedia.org/wiki/Alnus_glutinosa"
+      },
+      "Kingdom": {
+        "value": "Plantae",
+        "href": "https://en.wikipedia.org/wiki/Plant"
+      },
+      "Order": {
+        "value": "Fagales",
+        "href": "https://en.wikipedia.org/wiki/Fagales"
+      },
+      "Family": {
+        "value": "Betulaceae",
+        "href": "https://en.wikipedia.org/wiki/Betulaceae"
+      },
+      "Genus": {
+        "value": "Alnus",
+        "href": "https://en.wikipedia.org/wiki/Alder"
+      }
+    }
+  },
+  {
+    "Name": "Alder Buckthorn",
+    "Taxonomy": {
+      "Species": {
+        "Description": "The Alder Buckthorn (Frangula alnus) is a small, thornless deciduous tree or shrub. It is commonly found in wet woodlands, riverbanks, heathlands, swamps, and damp open woods. Alder Buckthorn is a significant food source for the Brimstone butterfly, and its flowers are valuable for bees. The fruit also provides an important food source for birds.",
+        "value": "Frangula alnus",
+        "href": "https://en.wikipedia.org/wiki/Frangula_alnus"
+      },
+      "Kingdom": {
+        "value": "Plantae",
+        "href": "https://en.wikipedia.org/wiki/Plant"
+      },
+      "Order": {
+        "value": "Rosales",
+        "href": "https://en.wikipedia.org/wiki/Rosales"
+      },
+      "Family": {
+        "value": "Rhamnaceae",
+        "href": "https://en.wikipedia.org/wiki/Rhamnaceae"
+      },
+      "Genus": {
+        "value": "Frangula",
+        "href": "https://en.wikipedia.org/wiki/Frangula"
+      }
+    }
+  },
+  {
+    "Name": "Ash",
+    "Taxonomy": {
+      "Species": {
+        "Description": "Ash trees (genus Fraxinus) are typically medium to large deciduous trees. Their leaves are usually opposite, pinnately compound, and typically have an odd number of leaflets. A distinctive feature, especially in winter, is their prominent black buds. Ash wood is known for being strong, stiff, resilient, and lightweight. It is widely used for tool handles (like baseball bats, hockey sticks, and oars), musical instruments, and cabinetry.",
+        "value": "Fraxinus excelsior",
+        "href": "https://en.wikipedia.org/wiki/Fraxinus_excelsior"
+      },
+      "Kingdom": {
+        "value": "Plantae",
+        "href": "https://en.wikipedia.org/wiki/Plant"
+      },
+      "Order": {
+        "value": "Lamiales",
+        "href": "https://en.wikipedia.org/wiki/Lamiales"
+      },
+      "Family": {
+        "value": "Oleaceae",
+        "href": "https://en.wikipedia.org/wiki/Oleaceae"
+      },
+      "Genus": {
+        "value": "Fraxinus",
+        "href": "https://en.wikipedia.org/wiki/Fraxinus"
+      }
+    }
+  },
+  {
+    "Name": "Aspen",
+    "Taxonomy": {
+      "Species": {
+        "Description": "The Aspen tree, particularly the widespread Quaking Aspen (Populus tremuloides), is a distinctive deciduous tree. A notable feature is their flattened stalk (petiole), which allows the leaves to 'quake' or 'tremble' in even the slightest breeze. Aspen trees are well-known for their ability to reproduce extensively through root suckers, forming large, genetically identical groves or 'clones' where individual trees are connected by a single root system.",
+        "value": "Populus tremula",
+        "href": "https://en.wikipedia.org/wiki/Populus_tremula"
+      },
+      "Kingdom": {
+        "value": "Plantae",
+        "href": "https://en.wikipedia.org/wiki/Plant"
+      },
+      "Order": {
+        "value": "Malpighiales",
+        "href": "https://en.wikipedia.org/wiki/Malpighiales"
+      },
+      "Family": {
+        "value": "Salicaceae",
+        "href": "https://en.wikipedia.org/wiki/Salicaceae"
+      },
+      "Genus": {
+        "value": "Populus",
+        "href": "https://en.wikipedia.org/wiki/Populus"
+      }
+    }
+  },
+  {
+    "Name": "Beech",
+    "Taxonomy": {
+      "Species": {
+        "Description": "A Beech tree, belonging to the genus Fagus, is a large, deciduous tree known for its striking appearance. Its bark is smooth and steel-gray or silvery-grey in color, remaining unscarred as the tree ages. Beech trees typically have a dense, rounded, and wide-spreading canopy. Beech wood is fine-grained, knot-free, and durable, making it valuable for furniture, flooring, construction, and various household items.",
+        "value": "Fagus sylvatica",
+        "href": "https://en.wikipedia.org/wiki/Fagus_sylvatica"
+      },
+      "Kingdom": {
+        "value": "Plantae",
+        "href": "https://en.wikipedia.org/wiki/Plant"
+      },
+      "Order": {
+        "value": "Fagales",
+        "href": "https://en.wikipedia.org/wiki/Fagales"
+      },
+      "Family": {
+        "value": "Fagaceae",
+        "href": "https://en.wikipedia.org/wiki/Fagaceae"
+      },
+      "Genus": {
+        "value": "Fagus",
+        "href": "https://en.wikipedia.org/wiki/Beech"
+      }
+    }
+  },
+  {
+    "Name": "Bird Cherry",
+    "Taxonomy": {
+      "Species": {
+        "Description": "The Bird Cherry (Prunus padus) is a deciduous tree. In early to mid-spring, the Bird Cherry produces abundant clusters of fragrant white flowers. After flowering, small, pea-sized, dark purple to black fruits, known as cherries, develop. These cherries are astringent and bitter due to their tannin content, making them inedible for humans. However, they are a crucial food source for birds and other wildlife.",
+        "value": "Prunus padus",
+        "href": "https://en.wikipedia.org/wiki/Prunus_padus"
+      },
+      "Kingdom": {
+        "value": "Plantae",
+        "href": "https://en.wikipedia.org/wiki/Plant"
+      },
+      "Order": {
+        "value": "Rosales",
+        "href": "https://en.wikipedia.org/wiki/Rosales"
+      },
+      "Family": {
+        "value": "Rosaceae",
+        "href": "https://en.wikipedia.org/wiki/Rosaceae"
+      },
+      "Genus": {
+        "value": "Prunus",
+        "href": "https://en.wikipedia.org/wiki/Prunus"
+      }
+    }
+  },
+  {
+    "Name": "Black Poplar",
+    "Taxonomy": {
+      "Species": {
+        "Description": "The Black Poplar (Populus nigra) is a large, deciduous tree. Mature trees feature dark gray to almost black bark that is deeply fissured, knotted, gnarled, and burred. Black Poplars are dioecious, meaning male and female flowers grow on separate trees. Female trees produce abundant seeds encased in white, cottony hairs by late summer, which are dispersed by wind. Historically, Black Poplar wood was used for items requiring shock resistance and springiness, such as cart wheels and wagon bases.",
+        "value": "Populus nigra",
+        "href": "https://en.wikipedia.org/wiki/Populus_nigra"
+      },
+      "Kingdom": {
+        "value": "Plantae",
+        "href": "https://en.wikipedia.org/wiki/Plant"
+      },
+      "Order": {
+        "value": "Malpighiales",
+        "href": "https://en.wikipedia.org/wiki/Malpighiales"
+      },
+      "Family": {
+        "value": "Salicaceae",
+        "href": "https://en.wikipedia.org/wiki/Salicaceae"
+      },
+      "Genus": {
+        "value": "Populus",
+        "href": "https://en.wikipedia.org/wiki/Populus"
+      }
+    }
+  },
+  {
+    "Name": "Blackthorn",
+    "Taxonomy": {
+      "Species": {
+        "Description": "The Blackthorn (Prunus spinosa), also known as sloe, is a spiny shrub or small tree. It is characterized by long, sharp thorns that grow along its branches. Blackthorn is an early bloomer, producing abundant white, five-petaled flowers in clusters in early spring, typically before the leaves emerge. After flowering, it produces small, round fruits called sloes. These are dark blue to black in color with a tart, astringent flavor. Sloes are commonly used in culinary applications, such as jams, jellies, and especially for making sloe gin.",
+        "value": "Prunus spinosa",
+        "href": "https://en.wikipedia.org/wiki/Prunus_spinosa"
+      },
+      "Kingdom": {
+        "value": "Plantae",
+        "href": "https://en.wikipedia.org/wiki/Plant"
+      },
+      "Order": {
+        "value": "Rosales",
+        "href": "https://en.wikipedia.org/wiki/Rosales"
+      },
+      "Family": {
+        "value": "Rosaceae",
+        "href": "https://en.wikipedia.org/wiki/Rosaceae"
+      },
+      "Genus": {
+        "value": "Prunus",
+        "href": "https://en.wikipedia.org/wiki/Prunus"
+      }
+    }
+  },
+  {
+    "Name": "Crab Apple",
+    "Taxonomy": {
+      "Species": {
+        "Description": "A Crab Apple tree, belonging to the genus Malus, is a small, deciduous tree or shrub known for its ornamental value. Following the flowers, crab apple trees produce small, pome fruits, generally less than 2 inches (5 cm) in diameter. These fruits range in color from yellow to deep red and are often tart, making them less suitable for raw consumption but excellent for jellies, preserves, and cider due to their high pectin content.",
+        "value": "Malus sylvestris",
+        "href": "https://en.wikipedia.org/wiki/Malus_sylvestris"
+      },
+      "Kingdom": {
+        "value": "Plantae",
+        "href": "https://en.wikipedia.org/wiki/Plant"
+      },
+      "Order": {
+        "value": "Rosales",
+        "href": "https://en.wikipedia.org/wiki/Rosales"
+      },
+      "Family": {
+        "value": "Rosaceae",
+        "href": "https://en.wikipedia.org/wiki/Rosaceae"
+      },
+      "Genus": {
+        "value": "Malus",
+        "href": "https://en.wikipedia.org/wiki/Malus"
+      }
+    }
+  },
+  {
+    "Name": "Dogwood",
+    "Taxonomy": {
+      "Species": {
+        "Description": "The Dogwood tree, belonging to the genus Cornus, is a diverse group of woody plants. They are most captivating in spring with their delicate and showy 'blossoms,' which are actually modified leaves called bracts, surrounding a cluster of small, inconspicuous flowers. The leaves are simple, ovate, and have distinctive veins that curve towards the margins. In winter, the tree reveals a striking architectural form with textured, grayish-brown bark that often has shallow ridges, giving it a distinctive patterned look.",
+        "value": "Cornus sanguinea",
+        "href": "https://en.wikipedia.org/wiki/Cornus_sanguinea"
+      },
+      "Kingdom": {
+        "value": "Plantae",
+        "href": "https://en.wikipedia.org/wiki/Plant"
+      },
+      "Order": {
+        "value": "Cornales",
+        "href": "https://en.wikipedia.org/wiki/Cornales"
+      },
+      "Family": {
+        "value": "Cornaceae",
+        "href": "https://en.wikipedia.org/wiki/Cornaceae"
+      },
+      "Genus": {
+        "value": "Cornus",
+        "href": "https://en.wikipedia.org/wiki/Cornus"
+      }
+    }
+  },
+  {
+    "Name": "Downy Birch",
+    "Taxonomy": {
+      "Species": {
+        "Description": "The Downy Birch (Betula pubescens), also known as moor birch, white birch, or hairy birch, is a deciduous tree. The shoots are grey-brown and covered in fine, downy hairs, which is where the tree gets its name. This resilient tree thrives in moist and well-drained soils, frequently found in heathlands, bogs, woodlands, and along riverbanks. It can tolerate both acidic and alkaline soils and is often found on damper soils than the Silver Birch.",
+        "value": "Betula pubescens",
+        "href": "https://en.wikipedia.org/wiki/Betula_pubescens"
+      },
+      "Kingdom": {
+        "value": "Plantae",
+        "href": "https://en.wikipedia.org/wiki/Plant"
+      },
+      "Order": {
+        "value": "Fagales",
+        "href": "https://en.wikipedia.org/wiki/Fagales"
+      },
+      "Family": {
+        "value": "Betulaceae",
+        "href": "https://en.wikipedia.org/wiki/Betulaceae"
+      },
+      "Genus": {
+        "value": "Betula",
+        "href": "https://en.wikipedia.org/wiki/Birch"
+      }
+    }
+  },
+  {
+    "Name": "Elder",
+    "Taxonomy": {
+      "Species": {
+        "Description": "The Elder tree (genus Sambucus) is a fast-growing shrub or small tree. In late spring to early summer, Elder trees produce large, flat clusters of creamy-white, strongly fragrant flowers that attract pollinators like bees and butterflies. These flowers are followed by clusters of small, dark purple to black berries, known as elderberries, which are edible when ripe but toxic if consumed raw in large quantities.",
+        "value": "Sambucus nigra",
+        "href": "https://en.wikipedia.org/wiki/Sambucus_nigra"
+      },
+      "Kingdom": {
+        "value": "Plantae",
+        "href": "https://en.wikipedia.org/wiki/Plant"
+      },
+      "Order": {
+        "value": "Dipsacales",
+        "href": "https://en.wikipedia.org/wiki/Dipsacales"
+      },
+      "Family": {
+        "value": "Adoxaceae",
+        "href": "https://en.wikipedia.org/wiki/Adoxaceae"
+      },
+      "Genus": {
+        "value": "Sambucus",
+        "href": "https://en.wikipedia.org/wiki/Sambucus"
+      }
+    }
+  },
+  {
+    "Name": "Field Maple",
+    "Taxonomy": {
+      "Species": {
+        "Description": "The Field Maple (Acer campestre) is a small to medium-sized deciduous tree. Its leaves are broadly pentagonal with a cordate base, typically having five blunt, rounded lobes with broad sinuses. They are dark green and turn a rich golden-yellow, sometimes with tinges of red, in autumn. The bark is grey to pale brown, developing shallow longitudinal fissures and often corky ridges as it ages. The Field Maple is known for its adaptability and resilience, tolerating various soil types, drought, urban pollution, compacted ground, and even coastal winds.",
+        "value": "Acer campestre",
+        "href": "https://en.wikipedia.org/wiki/Acer_campestre"
+      },
+      "Kingdom": {
+        "value": "Plantae",
+        "href": "https://en.wikipedia.org/wiki/Plant"
+      },
+      "Order": {
+        "value": "Sapindales",
+        "href": "https://en.wikipedia.org/wiki/Sapindales"
+      },
+      "Family": {
+        "value": "Sapindaceae",
+        "href": "https://en.wikipedia.org/wiki/Sapindaceae"
+      },
+      "Genus": {
+        "value": "Acer",
+        "href": "https://en.wikipedia.org/wiki/Maple"
+      }
+    }
+  },
+  {
+    "Name": "Goat Willow",
+    "Taxonomy": {
+      "Species": {
+        "Description": "The Goat Willow (Salix caprea), also known as Pussy Willow, is a small tree or large shrub. One of its most distinctive features, the Goat Willow produces fluffy, silver-grey male catkins in early spring before the leaves emerge. These male catkins resemble a cat's paws and turn bright yellow when ripe. Female catkins are green. The tree is dioecious, meaning male and female flowers grow on separate trees. It is commonly found in woodlands, hedgerows, scrub, ditches, reedbeds, wet woodland, and near rivers, ponds, and wetlands.",
+        "value": "Salix caprea",
+        "href": "https://en.wikipedia.org/wiki/Salix_caprea"
+      },
+      "Kingdom": {
+        "value": "Plantae",
+        "href": "https://en.wikipedia.org/wiki/Plant"
+      },
+      "Order": {
+        "value": "Malpighiales",
+        "href": "https://en.wikipedia.org/wiki/Malpighiales"
+      },
+      "Family": {
+        "value": "Salicaceae",
+        "href": "https://en.wikipedia.org/wiki/Salicaceae"
+      },
+      "Genus": {
+        "value": "Salix",
+        "href": "https://en.wikipedia.org/wiki/Willow"
+      }
+    }
+  },
+  {
+    "Name": "Grey Willow",
+    "Taxonomy": {
+      "Species": {
+        "Description": "The Grey Willow (Salix cinerea) is a deciduous shrub or small tree. The leaves are spirally arranged, oval to obovate (egg-shaped with the base narrower than the tip). Unlike many other willows, its leaves are not long and thin. They are generally twice as long as they are wide, with a greyish-green hue on the upper side and a pale, silky, and hairy underside. The Grey Willow thrives in damp and marshy areas, such as wet woodlands, riverbanks, fenlands, ditches, and reedbeds.",
+        "value": "Salix cinerea",
+        "href": "https://en.wikipedia.org/wiki/Salix_cinerea"
+      },
+      "Kingdom": {
+        "value": "Plantae",
+        "href": "https://en.wikipedia.org/wiki/Plant"
+      },
+      "Order": {
+        "value": "Malpighiales",
+        "href": "https://en.wikipedia.org/wiki/Malpighiales"
+      },
+      "Family": {
+        "value": "Salicaceae",
+        "href": "https://en.wikipedia.org/wiki/Salicaceae"
+      },
+      "Genus": {
+        "value": "Salix",
+        "href": "https://en.wikipedia.org/wiki/Willow"
+      }
+    }
+  },
+  {
+    "Name": "Guelder-rose",
+    "Taxonomy": {
+      "Species": {
+        "Description": "The Guelder-rose (Viburnum opulus) is a deciduous shrub or small tree. Its broad, three-lobed leaves are similar to those of some maples, with coarsely serrated margins and a somewhat wrinkled surface. In late spring to early summer, it produces large, flat clusters (corymbs) of white flowers. After flowering, the Guelder-rose develops clusters of glossy red berries, known as drupes. These berries are an important food source for birds but are mildly poisonous to humans when raw.",
+        "value": "Viburnum opulus",
+        "href": "https://en.wikipedia.org/wiki/Viburnum_opulus"
+      },
+      "Kingdom": {
+        "value": "Plantae",
+        "href": "https://en.wikipedia.org/wiki/Plant"
+      },
+      "Order": {
+        "value": "Dipsacales",
+        "href": "https://en.wikipedia.org/wiki/Dipsacales"
+      },
+      "Family": {
+        "value": "Adoxaceae",
+        "href": "https://en.wikipedia.org/wiki/Adoxaceae"
+      },
+      "Genus": {
+        "value": "Viburnum",
+        "href": "https://en.wikipedia.org/wiki/Viburnum"
+      }
+    }
+  },
+  {
+    "Name": "Hawthorn",
+    "Taxonomy": {
+      "Species": {
+        "Description": "Hawthorn (Crataegus spp.) trees are a genus of small, flowering deciduous trees known for their protective, woody thorns. Hawthorns produce clusters of five-petaled flowers, reminiscent of apple blossoms, which are typically white and appear in May or June. After flowering, they develop small, pome-like fruits called 'haws' or 'apples,' which are usually red but can also be black. While edible, haws often have a sour taste and mealy texture and are used in culinary applications like jams and jellies.",
+        "value": "Crataegus monogyna",
+        "href": "https://en.wikipedia.org/wiki/Crataegus_monogyna"
+      },
+      "Kingdom": {
+        "value": "Plantae",
+        "href": "https://en.wikipedia.org/wiki/Plant"
+      },
+      "Order": {
+        "value": "Rosales",
+        "href": "https://en.wikipedia.org/wiki/Rosales"
+      },
+      "Family": {
+        "value": "Rosaceae",
+        "href": "https://en.wikipedia.org/wiki/Rosaceae"
+      },
+      "Genus": {
+        "value": "Crataegus",
+        "href": "https://en.wikipedia.org/wiki/Crataegus"
+      }
+    }
+  },
+  {
+    "Name": "Hazel",
+    "Taxonomy": {
+      "Species": {
+        "Description": "The hazel tree (genus Corylus) is a deciduous tree or large shrub. The male flowers appear very early in spring before the leaves as pale yellow catkins, often described as resembling 'lamb's tails'. The female flowers are much smaller, bud-like, and largely concealed, with only tiny, bright-red styles visible. The fruit of the hazel tree is a nut, enclosed by a leafy husk called an involucre. These nuts, commonly known as hazelnuts, are a significant food source for wildlife and have been part of human diets since the Stone Age.",
+        "value": "Corylus avellana",
+        "href": "https://en.wikipedia.org/wiki/Corylus_avellana"
+      },
+      "Kingdom": {
+        "value": "Plantae",
+        "href": "https://en.wikipedia.org/wiki/Plant"
+      },
+      "Order": {
+        "value": "Fagales",
+        "href": "https://en.wikipedia.org/wiki/Fagales"
+      },
+      "Family": {
+        "value": "Betulaceae",
+        "href": "https://en.wikipedia.org/wiki/Betulaceae"
+      },
+      "Genus": {
+        "value": "Corylus",
+        "href": "https://en.wikipedia.org/wiki/Hazel"
+      }
+    }
+  },
+  {
+    "Name": "Hornbeam",
+    "Taxonomy": {
+      "Species": {
+        "Description": "The Hornbeam is a hardwood tree. The common Hornbeam features a trunk with striking grooves that resemble sinuous, muscular ridges, becoming more prominent with age. Its bark is typically smooth, grey-green. Hornbeam leaves are marcescent, meaning some leaves wither in autumn but remain on the branches throughout winter, only falling when new sap rises in spring. Hornbeams are known for their extremely hard and dense timber, often referred to as 'ironwood.'",
+        "value": "Carpinus betulus",
+        "href": "https://en.wikipedia.org/wiki/Carpinus_betulus"
+      },
+      "Kingdom": {
+        "value": "Plantae",
+        "href": "https://en.wikipedia.org/wiki/Plant"
+      },
+      "Order": {
+        "value": "Fagales",
+        "href": "https://en.wikipedia.org/wiki/Fagales"
+      },
+      "Family": {
+        "value": "Betulaceae",
+        "href": "https://en.wikipedia.org/wiki/Betulaceae"
+      },
+      "Genus": {
+        "value": "Carpinus",
+        "href": "https://en.wikipedia.org/wiki/Hornbeam"
+      }
+    }
+  },
+  {
+    "Name": "Horse Chestnut",
+    "Taxonomy": {
+      "Species": {
+        "Description": "The Horse Chestnut (Aesculus hippocastanum) is a large, deciduous tree. The leaves are opposite and palmately compound, meaning the leaflets are arranged around a central point, similar to the palm of a hand. In spring, the tree produces showy, erect, candle-like clusters of white flowers. The fruit is a green, spiky capsule that ripens in September. Inside, it contains one (rarely two or three) shiny, nut-like seeds known as conkers or horse-chestnuts. The seeds, or conkers, are inedible and poisonous to humans and most animals.",
+        "value": "Aesculus hippocastanum",
+        "href": "https://en.wikipedia.org/wiki/Aesculus_hippocastanum"
+      },
+      "Kingdom": {
+        "value": "Plantae",
+        "href": "https://en.wikipedia.org/wiki/Plant"
+      },
+      "Order": {
+        "value": "Sapindales",
+        "href": "https://en.wikipedia.org/wiki/Sapindales"
+      },
+      "Family": {
+        "value": "Sapindaceae",
+        "href": "https://en.wikipedia.org/wiki/Sapindaceae"
+      },
+      "Genus": {
+        "value": "Aesculus",
+        "href": "https://en.wikipedia.org/wiki/Aesculus"
+      }
+    }
+  },
+  {
+    "Name": "Juniper",
+    "Taxonomy": {
+      "Species": {
+        "Description": "The Juniper tree, belonging to the genus Juniperus, is a diverse evergreen conifer. A distinctive feature of junipers is their female seed cones, which are fleshy and berry-like, often referred to as 'berries.' These cones are typically blue, though some species have red-brown or orange ones, and they are often aromatic. The berry-like cones of common juniper are used to flavor foods and alcoholic beverages, most notably gin.",
+        "value": "Juniperus communis",
+        "href": "https://en.wikipedia.org/wiki/Juniperus_communis"
+      },
+      "Kingdom": {
+        "value": "Plantae",
+        "href": "https://en.wikipedia.org/wiki/Plant"
+      },
+      "Order": {
+        "value": "Pinales",
+        "href": "https://en.wikipedia.org/wiki/Pinales"
+      },
+      "Family": {
+        "value": "Cupressaceae",
+        "href": "https://en.wikipedia.org/wiki/Cupressaceae"
+      },
+      "Genus": {
+        "value": "Juniperus",
+        "href": "https://en.wikipedia.org/wiki/Juniper"
+      }
+    }
+  },
+  {
+    "Name": "Osier",
+    "Taxonomy": {
+      "Species": {
+        "Description": "The Osier tree (Salix viminalis) is a deciduous broadleaf tree or shrub commonly referred to as basket willow or common osier. It is renowned for its long, straight, flexible, and thin branches, which are well-suited for weaving and have been historically used in traditional basket-making. This tree thrives in moist environments such as riverbanks, fens, ditches, and wetlands. When cultivated for basketry, it is usually coppiced annually to encourage the production of long, flexible shoots.",
+        "value": "Salix viminalis",
+        "href": "https://en.wikipedia.org/wiki/Salix_viminalis"
+      },
+      "Kingdom": {
+        "value": "Plantae",
+        "href": "https://en.wikipedia.org/wiki/Plant"
+      },
+      "Order": {
+        "value": "Malpighiales",
+        "href": "https://en.wikipedia.org/wiki/Malpighiales"
+      },
+      "Family": {
+        "value": "Salicaceae",
+        "href": "https://en.wikipedia.org/wiki/Salicaceae"
+      },
+      "Genus": {
+        "value": "Salix",
+        "href": "https://en.wikipedia.org/wiki/Willow"
+      }
+    }
+  },
+  {
+    "Name": "Pedunculate Oak",
+    "Taxonomy": {
+      "Species": {
+        "Description": "The Pedunculate Oak (Quercus robur), also known as English Oak or Common Oak, is a prominent deciduous tree. A distinguishing feature is the presence of small, ear-like lobes (auricles) at the base of the leaf where it meets the stalk. The tree's common name, 'Pedunculate Oak,' comes from its acorns, which are borne in clusters of 2-3 on a long stalk (peduncle). It is highly significant for natural ecosystems, supporting a wide diversity of herbivorous insects, pests, predators, and pathogens. It supports more life than any other native tree species in the UK.",
+        "value": "Quercus robur",
+        "href": "https://en.wikipedia.org/wiki/Quercus_robur"
+      },
+      "Kingdom": {
+        "value": "Plantae",
+        "href": "https://en.wikipedia.org/wiki/Plant"
+      },
+      "Order": {
+        "value": "Fagales",
+        "href": "https://en.wikipedia.org/wiki/Fagales"
+      },
+      "Family": {
+        "value": "Fagaceae",
+        "href": "https://en.wikipedia.org/wiki/Fagaceae"
+      },
+      "Genus": {
+        "value": "Quercus",
+        "href": "https://en.wikipedia.org/wiki/Oak"
+      }
+    }
+  },
+  {
+    "Name": "Rowan",
+    "Taxonomy": {
+      "Species": {
+        "Description": "The Rowan tree (Sorbus aucuparia), also commonly called Mountain Ash, is a deciduous tree. The most distinctive feature of the Rowan tree is its abundant clusters of bright red or orange berries (which are technically small pomes, not true berries). These ripen from August to October and are a vital food source for many bird species, which help disperse the seeds. The berries are rich in Vitamin C and have been traditionally used to make jellies and drinks.",
+        "value": "Sorbus aucuparia",
+        "href": "https://en.wikipedia.org/wiki/Sorbus_aucuparia"
+      },
+      "Kingdom": {
+        "value": "Plantae",
+        "href": "https://en.wikipedia.org/wiki/Plant"
+      },
+      "Order": {
+        "value": "Rosales",
+        "href": "https://en.wikipedia.org/wiki/Rosales"
+      },
+      "Family": {
+        "value": "Rosaceae",
+        "href": "https://en.wikipedia.org/wiki/Rosaceae"
+      },
+      "Genus": {
+        "value": "Sorbus",
+        "href": "https://en.wikipedia.org/wiki/Sorbus"
+      }
+    }
+  },
+  {
+    "Name": "Scots Pine",
+    "Taxonomy": {
+      "Species": {
+        "Description": "The Scots Pine (Pinus sylvestris) is an evergreen conifer. The bark is distinctive, with young trees having grey bark that gradually turns orange-brown. On mature trees, the upper bark is a striking orange-red or reddish hue, while the lower bark is thicker, scaly, and deeply fissured. Young Scots Pines have a conical shape, but as they mature, they develop a distinctive habit with a long, bare, straight trunk topped by a rounded or flat-topped mass of foliage. The timber, also known as 'red deal' or 'yellow deal', is strong and easy to work with, making it valuable for construction, joinery, and the paper industry.",
+        "value": "Pinus sylvestris",
+        "href": "https://en.wikipedia.org/wiki/Pinus_sylvestris"
+      },
+      "Kingdom": {
+        "value": "Plantae",
+        "href": "https://en.wikipedia.org/wiki/Plant"
+      },
+      "Order": {
+        "value": "Pinales",
+        "href": "https://en.wikipedia.org/wiki/Pinales"
+      },
+      "Family": {
+        "value": "Pinaceae",
+        "href": "https://en.wikipedia.org/wiki/Pinaceae"
+      },
+      "Genus": {
+        "value": "Pinus",
+        "href": "https://en.wikipedia.org/wiki/Pine"
+      }
+    }
+  },
+  {
+    "Name": "Sessile Oak",
+    "Taxonomy": {
+      "Species": {
+        "Description": "The Sessile Oak is a majestic, long-lived broadleaf tree that tends to dominate upland oakwoods, thriving in higher rainfall and poorer soils than its relative, the pedunculate oak. It can be distinguished by its acorns, which sit stalkless (sessile) directly on the twigs, and its leaves, which feature distinct stalks.\n\nIt typically grows with a straighter, taller trunk than the pedunculate oak, making it a historically valuable timber tree for construction and shipbuilding. Like the pedunculate oak, it supports a vast array of wildlife, including hundreds of insect species, birds, and fungi.",
+        "value": "Quercus petraea",
+        "href": "https://en.wikipedia.org/wiki/Quercus_petraea"
+      },
+      "Kingdom": {
+        "value": "Plantae",
+        "href": "https://en.wikipedia.org/wiki/Plant"
+      },
+      "Order": {
+        "value": "Fagales",
+        "href": "https://en.wikipedia.org/wiki/Fagales"
+      },
+      "Family": {
+        "value": "Fagaceae",
+        "href": "https://en.wikipedia.org/wiki/Fagaceae"
+      },
+      "Genus": {
+        "value": "Quercus",
+        "href": "https://en.wikipedia.org/wiki/Oak"
+      }
+    }
+  },
+  {
+    "Name": "Silver Birch",
+    "Taxonomy": {
+      "Species": {
+        "Description": "Silver Birch is a striking, fast-growing deciduous tree recognized by its brilliant white, peeling bark and pendulous, drooping branches. As a pioneer species, it is one of the first trees to colonize open or cleared land, thriving in dry, sandy soils and requiring plenty of light to grow.\n\nIts small, triangular leaves create a light, dappled canopy that allows ground flora to flourish beneath it. In autumn, the foliage turns a vibrant yellow, and the tree releases thousands of tiny, winged seeds from its disintegrating catkins to be scattered by the wind.",
+        "value": "Betula pendula",
+        "href": "https://en.wikipedia.org/wiki/Betula_pendula"
+      },
+      "Kingdom": {
+        "value": "Plantae",
+        "href": "https://en.wikipedia.org/wiki/Plant"
+      },
+      "Order": {
+        "value": "Fagales",
+        "href": "https://en.wikipedia.org/wiki/Fagales"
+      },
+      "Family": {
+        "value": "Betulaceae",
+        "href": "https://en.wikipedia.org/wiki/Betulaceae"
+      },
+      "Genus": {
+        "value": "Betula",
+        "href": "https://en.wikipedia.org/wiki/Birch"
+      }
+    }
+  },
+  {
+    "Name": "Spindle",
+    "Taxonomy": {
+      "Species": {
+        "Description": "Spindle is a deciduous native shrub or small tree commonly found in ancient woodlands, hedgerows, and scrub on chalky soils. While relatively inconspicuous during the summer, it becomes highly visible in autumn when its leaves turn a striking reddish-pink.\n\nIts most notable feature is its uniquely shaped, vibrant pink, four-lobed fruit capsules that split open to reveal bright orange, fleshy seeds. The wood of the spindle tree is exceptionally hard and dense, and it was historically cut to make the pointed spindles used in spinning wool.",
+        "value": "Euonymus europaeus",
+        "href": "https://en.wikipedia.org/wiki/Euonymus_europaeus"
+      },
+      "Kingdom": {
+        "value": "Plantae",
+        "href": "https://en.wikipedia.org/wiki/Plant"
+      },
+      "Order": {
+        "value": "Celastrales",
+        "href": "https://en.wikipedia.org/wiki/Celastrales"
+      },
+      "Family": {
+        "value": "Celastraceae",
+        "href": "https://en.wikipedia.org/wiki/Celastraceae"
+      },
+      "Genus": {
+        "value": "Euonymus",
+        "href": "https://en.wikipedia.org/wiki/Euonymus"
+      }
+    }
+  },
+  {
+    "Name": "Sweet Chestnut",
+    "Taxonomy": {
+      "Species": {
+        "Description": "Sweet Chestnut is a large, long-lived deciduous tree introduced to the UK by the Romans, now naturalized in many southern woodlands. It is easily identified by its deeply grooved bark that spirals up the trunk as the tree ages, and its long, heavily serrated, glossy green leaves.\n\nIn late summer, it produces long, heavily scented yellow catkins, followed by dense, spiky green cases that contain two or three edible nuts. The wood is highly durable and resembles oak, making it a traditional favorite for coppicing to produce strong fencing and poles.",
+        "value": "Castanea sativa",
+        "href": "https://en.wikipedia.org/wiki/Castanea_sativa"
+      },
+      "Kingdom": {
+        "value": "Plantae",
+        "href": "https://en.wikipedia.org/wiki/Plant"
+      },
+      "Order": {
+        "value": "Fagales",
+        "href": "https://en.wikipedia.org/wiki/Fagales"
+      },
+      "Family": {
+        "value": "Fagaceae",
+        "href": "https://en.wikipedia.org/wiki/Fagaceae"
+      },
+      "Genus": {
+        "value": "Castanea",
+        "href": "https://en.wikipedia.org/wiki/Chestnut"
+      }
+    }
+  },
+  {
+    "Name": "Sycamore",
+    "Taxonomy": {
+      "Species": {
+        "Description": "Sycamore is a large, vigorous broadleaf tree introduced to the UK several centuries ago, known for its massive domed canopy and large, classic five-lobed maple leaves. It is highly tolerant of harsh conditions, including high winds, salt spray, and urban pollution, making it a common sight in coastal and city environments.\n\nThe tree is famous for its paired, winged seeds (samaras) that fall in a spinning, helicopter motion, allowing the wind to carry them significant distances. The pale, strong wood does not taint food, making it historically preferred for kitchen surfaces and wooden utensils.",
+        "value": "Acer pseudoplatanus",
+        "href": "https://en.wikipedia.org/wiki/Acer_pseudoplatanus"
+      },
+      "Kingdom": {
+        "value": "Plantae",
+        "href": "https://en.wikipedia.org/wiki/Plant"
+      },
+      "Order": {
+        "value": "Sapindales",
+        "href": "https://en.wikipedia.org/wiki/Sapindales"
+      },
+      "Family": {
+        "value": "Sapindaceae",
+        "href": "https://en.wikipedia.org/wiki/Sapindaceae"
+      },
+      "Genus": {
+        "value": "Acer",
+        "href": "https://en.wikipedia.org/wiki/Maple"
+      }
+    }
+  },
+  {
+    "Name": "Wayfaring Tree",
+    "Taxonomy": {
+      "Species": {
+        "Description": "The Wayfaring Tree is a large, deciduous shrub native to the chalky downs and limestone soils of southern England. It has thick, oval leaves covered in a dense layer of fine, grey hairs on the underside, giving the foliage a distinctively dusty appearance.\n\nIn early summer, it produces flat umbels of small, creamy-white flowers, followed by tightly clustered berries that transition from green to red, and finally to black as they ripen. These berries provide an important food source for birds, while the highly flexible twigs were historically used to tie bundles of faggots.",
+        "value": "Viburnum lantana",
+        "href": "https://en.wikipedia.org/wiki/Viburnum_lantana"
+      },
+      "Kingdom": {
+        "value": "Plantae",
+        "href": "https://en.wikipedia.org/wiki/Plant"
+      },
+      "Order": {
+        "value": "Dipsacales",
+        "href": "https://en.wikipedia.org/wiki/Dipsacales"
+      },
+      "Family": {
+        "value": "Adoxaceae",
+        "href": "https://en.wikipedia.org/wiki/Adoxaceae"
+      },
+      "Genus": {
+        "value": "Viburnum",
+        "href": "https://en.wikipedia.org/wiki/Viburnum"
+      }
+    }
+  },
+  {
+    "Name": "White Poplar",
+    "Taxonomy": {
+      "Species": {
+        "Description": "White Poplar is a broadleaf deciduous tree distinguished by its leaves, which are deeply lobed like a maple's and covered in a thick, brilliant white, felt-like tomentum on the underside. When the wind blows, the canopy shimmers as the contrasting dark green topsides and bright white undersides of the leaves are exposed.\n\nIt is often found in moist soils and coastal areas, where it frequently spreads via aggressive root suckering, forming extensive clonal colonies. The pale grey bark features distinct dark diamond-shaped lenticels that become rugged fissures at the base of mature trees.",
+        "value": "Populus alba",
+        "href": "https://en.wikipedia.org/wiki/Populus_alba"
+      },
+      "Kingdom": {
+        "value": "Plantae",
+        "href": "https://en.wikipedia.org/wiki/Plant"
+      },
+      "Order": {
+        "value": "Malpighiales",
+        "href": "https://en.wikipedia.org/wiki/Malpighiales"
+      },
+      "Family": {
+        "value": "Salicaceae",
+        "href": "https://en.wikipedia.org/wiki/Salicaceae"
+      },
+      "Genus": {
+        "value": "Populus",
+        "href": "https://en.wikipedia.org/wiki/Populus"
+      }
+    }
+  },
+  {
+    "Name": "Whitebeam",
+    "Taxonomy": {
+      "Species": {
+        "Description": "Whitebeam is a compact, deciduous broadleaf tree predominantly native to the chalk and limestone hills of southern Britain. Its name is derived from its distinct foliage; the broad, oval leaves possess a thick layer of white hairs on their undersides, which flash brightly in the wind.\n\nIn spring, the tree produces clusters of white flowers that attract various pollinators, which develop into speckled red berries in the autumn. The dense, hard wood is rarely used commercially today, but the tree remains a popular ornamental planting in parks and streets due to its neat shape and tolerance of urban conditions.",
+        "value": "Sorbus aria",
+        "href": "https://en.wikipedia.org/wiki/Sorbus_aria"
+      },
+      "Kingdom": {
+        "value": "Plantae",
+        "href": "https://en.wikipedia.org/wiki/Plant"
+      },
+      "Order": {
+        "value": "Rosales",
+        "href": "https://en.wikipedia.org/wiki/Rosales"
+      },
+      "Family": {
+        "value": "Rosaceae",
+        "href": "https://en.wikipedia.org/wiki/Rosaceae"
+      },
+      "Genus": {
+        "value": "Sorbus",
+        "href": "https://en.wikipedia.org/wiki/Sorbus"
+      }
+    }
+  },
+  {
+    "Name": "Wild Cherry",
+    "Taxonomy": {
+      "Species": {
+        "Description": "Wild Cherry, or gean, is one of the most attractive native broadleaf trees in the UK, found in woodlands and hedgerows. It is easily identified by its shiny, reddish-brown bark that is marked with prominent, horizontal lenticels and often peels off in horizontal strips.\n\nIn early spring, the tree is adorned with masses of cup-shaped white blossoms that hang in clusters before the leaves fully emerge. The deep red, fleshy cherries it produces in mid-summer are edible but often tart, serving as a vital food source for birds such as the song thrush and blackbird.",
+        "value": "Prunus avium",
+        "href": "https://en.wikipedia.org/wiki/Prunus_avium"
+      },
+      "Kingdom": {
+        "value": "Plantae",
+        "href": "https://en.wikipedia.org/wiki/Plant"
+      },
+      "Order": {
+        "value": "Rosales",
+        "href": "https://en.wikipedia.org/wiki/Rosales"
+      },
+      "Family": {
+        "value": "Rosaceae",
+        "href": "https://en.wikipedia.org/wiki/Rosaceae"
+      },
+      "Genus": {
+        "value": "Prunus",
+        "href": "https://en.wikipedia.org/wiki/Prunus"
+      }
+    }
+  },
+  {
+    "Name": "Wych Elm",
+    "Taxonomy": {
+      "Species": {
+        "Description": "Wych Elm is the only elm strictly native to Britain, tending to grow in upland areas, along river valleys, and in rocky woodlands. Its large, broad leaves are highly asymmetrical at the base, sharply toothed, and rough to the touch, resembling fine sandpaper.\n\nWhile deeply affected by Dutch Elm Disease, Wych Elm is somewhat less susceptible than the English Elm because it reproduces by seed rather than clonal suckering, meaning isolated populations have a better chance of survival. Its wood is strong, water-resistant, and possesses a complex grain, historically used for boat parts and wheel hubs.",
+        "value": "Ulmus glabra",
+        "href": "https://en.wikipedia.org/wiki/Ulmus_glabra"
+      },
+      "Kingdom": {
+        "value": "Plantae",
+        "href": "https://en.wikipedia.org/wiki/Plant"
+      },
+      "Order": {
+        "value": "Rosales",
+        "href": "https://en.wikipedia.org/wiki/Rosales"
+      },
+      "Family": {
+        "value": "Ulmaceae",
+        "href": "https://en.wikipedia.org/wiki/Ulmaceae"
+      },
+      "Genus": {
+        "value": "Ulmus",
+        "href": "https://en.wikipedia.org/wiki/Elm"
+      }
+    }
+  },
+  {
+    "Name": "Yew",
+    "Taxonomy": {
+      "Species": {
+        "Description": "The Yew is a native evergreen conifer famous for its incredible longevity, with some specimens in British churchyards estimated to be several thousand years old. It features flattened, dark green needles, reddish-flaking bark, and a dense, sprawling growth habit.\n\nAlmost every part of the yew tree is highly toxic due to the presence of taxine alkaloids. The exception is the fleshy red aril that surrounds the seed, which birds can safely digest, though the enclosed seed itself remains poisonous. The dense, highly elastic wood was historically the premier material for crafting the English longbow.",
+        "value": "Taxus baccata",
+        "href": "https://en.wikipedia.org/wiki/Taxus_baccata"
+      },
+      "Kingdom": {
+        "value": "Plantae",
+        "href": "https://en.wikipedia.org/wiki/Plant"
+      },
+      "Order": {
+        "value": "Pinales",
+        "href": "https://en.wikipedia.org/wiki/Pinales"
+      },
+      "Family": {
+        "value": "Taxaceae",
+        "href": "https://en.wikipedia.org/wiki/Taxaceae"
+      },
+      "Genus": {
+        "value": "Taxus",
+        "href": "https://en.wikipedia.org/wiki/Taxus"
+      }
+    }
+  },
+  {
+    "Name": "Larch",
+    "Taxonomy": {
+      "Species": {
+        "Description": "Larch, specifically the European Larch, is a unique conifer introduced to the UK as it is one of the few coniferous trees that is deciduous. It grows rapidly and upright, frequently planted in large forestry plantations for its tough, naturally rot-resistant timber.\n\nIts soft, bright green needles grow in distinctive tufts along the twigs. In autumn, these needles turn a brilliant golden-yellow before falling to the ground, leaving the bare branches studded with small, scaly cones throughout the winter.",
+        "value": "Larix decidua",
+        "href": "https://en.wikipedia.org/wiki/Larix_decidua"
+      },
+      "Kingdom": {
+        "value": "Plantae",
+        "href": "https://en.wikipedia.org/wiki/Plant"
+      },
+      "Order": {
+        "value": "Pinales",
+        "href": "https://en.wikipedia.org/wiki/Pinales"
+      },
+      "Family": {
+        "value": "Pinaceae",
+        "href": "https://en.wikipedia.org/wiki/Pinaceae"
+      },
+      "Genus": {
+        "value": "Larix",
+        "href": "https://en.wikipedia.org/wiki/Larix"
+      }
+    }
+  }
+]

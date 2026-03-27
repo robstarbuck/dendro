@@ -1,0 +1,132 @@
+[
+  {
+    "Name": "Alder",
+    "Taxonomy": {
+      "Species": {
+        "value": "Alnus glutinosa",
+        "href": "https://en.wikipedia.org/wiki/Alnus_glutinosa"
+      },
+      "Kingdom": {
+        "value": "Plantae",
+        "href": "https://en.wikipedia.org/wiki/Plant"
+      },
+      "Order": {
+        "value": "Fagales",
+        "href": "https://en.wikipedia.org/wiki/Fagales"
+      },
+      "Family": {
+        "value": "Betulaceae",
+        "href": "https://en.wikipedia.org/wiki/Betulaceae"
+      },
+      "Genus": {
+        "value": "Alnus",
+        "href": "https://en.wikipedia.org/wiki/Alder"
+      }
+    },
+    "Description": "Alder trees belong to the genus Alnus within the birch family, Betulaceae. Most alders are deciduous, featuring alternate, simple, and serrated leaves. They are pioneer species, often among the first to colonize disturbed areas, and are commonly found in wet environments like stream banks and marshy ground. A significant ecological feature is their ability to fix nitrogen from the air through a symbiotic relationship with Frankia alni bacteria in their root nodules, which enriches the soil."
+  },
+  {
+    "Name": "Downy Birch",
+    "Taxonomy": {
+      "Species": {
+        "value": "Betula pubescens",
+        "href": "https://en.wikipedia.org/wiki/Betula_pubescens"
+      },
+      "Kingdom": {
+        "value": "Plantae",
+        "href": "https://en.wikipedia.org/wiki/Plant"
+      },
+      "Order": {
+        "value": "Fagales",
+        "href": "https://en.wikipedia.org/wiki/Fagales"
+      },
+      "Family": {
+        "value": "Betulaceae",
+        "href": "https://en.wikipedia.org/wiki/Betulaceae"
+      },
+      "Genus": {
+        "value": "Betula",
+        "href": "https://en.wikipedia.org/wiki/Birch"
+      }
+    },
+    "Description": "The Downy Birch (Betula pubescens), also known as moor birch, white birch, or hairy birch, is a deciduous tree. The shoots are grey-brown and covered in fine, downy hairs, which is where the tree gets its name. This resilient tree thrives in moist and well-drained soils, frequently found in heathlands, bogs, woodlands, and along riverbanks. It can tolerate both acidic and alkaline soils and is often found on damper soils than the Silver Birch."
+  },
+  {
+    "Name": "Hazel",
+    "Taxonomy": {
+      "Species": {
+        "value": "Corylus avellana",
+        "href": "https://en.wikipedia.org/wiki/Corylus_avellana"
+      },
+      "Kingdom": {
+        "value": "Plantae",
+        "href": "https://en.wikipedia.org/wiki/Plant"
+      },
+      "Order": {
+        "value": "Fagales",
+        "href": "https://en.wikipedia.org/wiki/Fagales"
+      },
+      "Family": {
+        "value": "Betulaceae",
+        "href": "https://en.wikipedia.org/wiki/Betulaceae"
+      },
+      "Genus": {
+        "value": "Corylus",
+        "href": "https://en.wikipedia.org/wiki/Hazel"
+      }
+    },
+    "Description": "The hazel tree (genus Corylus) is a deciduous tree or large shrub. The male flowers appear very early in spring before the leaves as pale yellow catkins, often described as resembling 'lamb's tails'. The female flowers are much smaller, bud-like, and largely concealed, with only tiny, bright-red styles visible. The fruit of the hazel tree is a nut, enclosed by a leafy husk called an involucre. These nuts, commonly known as hazelnuts, are a significant food source for wildlife and have been part of human diets since the Stone Age."
+  },
+  {
+    "Name": "Hornbeam",
+    "Taxonomy": {
+      "Species": {
+        "value": "Carpinus betulus",
+        "href": "https://en.wikipedia.org/wiki/Carpinus_betulus"
+      },
+      "Kingdom": {
+        "value": "Plantae",
+        "href": "https://en.wikipedia.org/wiki/Plant"
+      },
+      "Order": {
+        "value": "Fagales",
+        "href": "https://en.wikipedia.org/wiki/Fagales"
+      },
+      "Family": {
+        "value": "Betulaceae",
+        "href": "https://en.wikipedia.org/wiki/Betulaceae"
+      },
+      "Genus": {
+        "value": "Carpinus",
+        "href": "https://en.wikipedia.org/wiki/Hornbeam"
+      }
+    },
+    "Description": "The Hornbeam is a hardwood tree. The common Hornbeam features a trunk with striking grooves that resemble sinuous, muscular ridges, becoming more prominent with age. Its bark is typically smooth, grey-green. Hornbeam leaves are marcescent, meaning some leaves wither in autumn but remain on the branches throughout winter, only falling when new sap rises in spring. Hornbeams are known for their extremely hard and dense timber, often referred to as 'ironwood.'"
+  },
+  {
+    "Name": "Silver Birch",
+    "Taxonomy": {
+      "Species": {
+        "value": "Betula pendula",
+        "href": "https://en.wikipedia.org/wiki/Betula_pendula"
+      },
+      "Kingdom": {
+        "value": "Plantae",
+        "href": "https://en.wikipedia.org/wiki/Plant"
+      },
+      "Order": {
+        "value": "Fagales",
+        "href": "https://en.wikipedia.org/wiki/Fagales"
+      },
+      "Family": {
+        "value": "Betulaceae",
+        "href": "https://en.wikipedia.org/wiki/Betulaceae"
+      },
+      "Genus": {
+        "value": "Betula",
+        "href": "https://en.wikipedia.org/wiki/Birch"
+      }
+    },
+    "Description": "Silver Birch is a striking, fast-growing deciduous tree recognized by its brilliant white, peeling bark and pendulous, drooping branches. As a pioneer species, it is one of the first trees to colonize open or cleared land, thriving in dry, sandy soils and requiring plenty of light to grow.\n\nIts small, triangular leaves create a light, dappled canopy that allows ground flora to flourish beneath it. In autumn, the foliage turns a vibrant yellow, and the tree releases thousands of tiny, winged seeds from its disintegrating catkins to be scattered by the wind."
+  }
+]
