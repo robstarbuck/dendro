@@ -141,17 +141,14 @@ export class DendroApp extends LitElement {
             this.selectedRanks(this.selectedTaxon).includes(rank);
 
           return html`
-            <details @click=${(e: Event) => e.preventDefault()}
-              ?open="${hasSubrank}"
-              title="${title}"
-            >
-              <summary class="${isSelected ? "selected" : ""}">
-                <a
-                  @click="${() =>
-                    this._onTaxonSelect(rank, taxon.Taxonomy[rank].value)}"
-                >
-                  ${hasSubrank ? taxonTitle : taxon.Name}
-                </a>
+            <details @click="${(e: Event) =>
+              e.preventDefault()}" ?open="${hasSubrank}" title="${title}">
+              <summary @click="${() =>
+                this._onTaxonSelect(
+                  rank,
+                  taxon.Taxonomy[rank].value,
+                )}" class="${isSelected ? "selected" : ""}">
+                ${hasSubrank ? taxonTitle : taxon.Name}
               </summary>
               ${hasSubrank
                 ? this.renderTaxonomy({
@@ -208,7 +205,6 @@ export class DendroApp extends LitElement {
           `;
         })}
       </ul>
-      
     `;
   }
 
@@ -216,10 +212,7 @@ export class DendroApp extends LitElement {
     return html`
       <div class="body">
         <nav>
-          <a target="_blank" rel="noreferrer">
-            ${logo}
-          </a>
-          DENDRO
+          ${logo} DENDRO
         </nav>
         <header>
           <ol>

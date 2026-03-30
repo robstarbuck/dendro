@@ -96,8 +96,11 @@ div>a::before {
 
 summary {
   display: inline list-item;
-  color: var(--mid-light);
+  
   cursor: pointer;
+}
+summary::marker {
+  color: var(--mid-light);
 }
 
 nav {
@@ -118,11 +121,11 @@ a {
   pointer-events: none;
 }
 
-summary.selected a {
+summary.selected {
   text-decoration: underline;
 }
 
-a:hover {
+summary:hover {
   text-decoration: underline;
 }
 
@@ -157,12 +160,6 @@ li {
 
 li:first-child button {
   cursor: unset;
-}
-
-button {
-  font-weight: bold;
-  cursor: pointer;
-  text-transform: uppercase;
 }
 
 i {
