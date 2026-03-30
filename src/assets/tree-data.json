@@ -23,6 +23,9 @@
         "value": "Alnus",
         "href": "https://en.wikipedia.org/wiki/Alder"
       }
+    },
+    "Info": {
+      "OppositeBuds": false
     }
   },
   {
@@ -49,6 +52,9 @@
         "value": "Frangula",
         "href": "https://en.wikipedia.org/wiki/Frangula"
       }
+    },
+    "Info": {
+      "OppositeBuds": false
     }
   },
   {
@@ -75,6 +81,9 @@
         "value": "Fraxinus",
         "href": "https://en.wikipedia.org/wiki/Fraxinus"
       }
+    },
+    "Info": {
+      "OppositeBuds": true
     }
   },
   {
@@ -101,6 +110,9 @@
         "value": "Populus",
         "href": "https://en.wikipedia.org/wiki/Populus"
       }
+    },
+    "Info": {
+      "OppositeBuds": false
     }
   },
   {
@@ -127,6 +139,9 @@
         "value": "Fagus",
         "href": "https://en.wikipedia.org/wiki/Beech"
       }
+    },
+    "Info": {
+      "OppositeBuds": false
     }
   },
   {
@@ -153,6 +168,9 @@
         "value": "Prunus",
         "href": "https://en.wikipedia.org/wiki/Prunus"
       }
+    },
+    "Info": {
+      "OppositeBuds": false
     }
   },
   {
@@ -179,6 +197,9 @@
         "value": "Populus",
         "href": "https://en.wikipedia.org/wiki/Populus"
       }
+    },
+    "Info": {
+      "OppositeBuds": false
     }
   },
   {
@@ -205,6 +226,9 @@
         "value": "Prunus",
         "href": "https://en.wikipedia.org/wiki/Prunus"
       }
+    },
+    "Info": {
+      "OppositeBuds": false
     }
   },
   {
@@ -231,6 +255,9 @@
         "value": "Malus",
         "href": "https://en.wikipedia.org/wiki/Malus"
       }
+    },
+    "Info": {
+      "OppositeBuds": false
     }
   },
   {
@@ -257,6 +284,9 @@
         "value": "Cornus",
         "href": "https://en.wikipedia.org/wiki/Cornus"
       }
+    },
+    "Info": {
+      "OppositeBuds": true
     }
   },
   {
@@ -283,6 +313,9 @@
         "value": "Betula",
         "href": "https://en.wikipedia.org/wiki/Birch"
       }
+    },
+    "Info": {
+      "OppositeBuds": false
     }
   },
   {
@@ -309,6 +342,9 @@
         "value": "Sambucus",
         "href": "https://en.wikipedia.org/wiki/Sambucus"
       }
+    },
+    "Info": {
+      "OppositeBuds": true
     }
   },
   {
@@ -335,6 +371,9 @@
         "value": "Acer",
         "href": "https://en.wikipedia.org/wiki/Maple"
       }
+    },
+    "Info": {
+      "OppositeBuds": true
     }
   },
   {
@@ -361,6 +400,9 @@
         "value": "Salix",
         "href": "https://en.wikipedia.org/wiki/Willow"
       }
+    },
+    "Info": {
+      "OppositeBuds": false
     }
   },
   {
@@ -387,6 +429,9 @@
         "value": "Salix",
         "href": "https://en.wikipedia.org/wiki/Willow"
       }
+    },
+    "Info": {
+      "OppositeBuds": false
     }
   },
   {
@@ -413,6 +458,9 @@
         "value": "Viburnum",
         "href": "https://en.wikipedia.org/wiki/Viburnum"
       }
+    },
+    "Info": {
+      "OppositeBuds": true
     }
   },
   {
@@ -439,6 +487,9 @@
         "value": "Crataegus",
         "href": "https://en.wikipedia.org/wiki/Crataegus"
       }
+    },
+    "Info": {
+      "OppositeBuds": false
     }
   },
   {
@@ -465,6 +516,9 @@
         "value": "Corylus",
         "href": "https://en.wikipedia.org/wiki/Hazel"
       }
+    },
+    "Info": {
+      "OppositeBuds": false
     }
   },
   {
@@ -491,6 +545,9 @@
         "value": "Carpinus",
         "href": "https://en.wikipedia.org/wiki/Hornbeam"
       }
+    },
+    "Info": {
+      "OppositeBuds": false
     }
   },
   {
@@ -517,6 +574,9 @@
         "value": "Aesculus",
         "href": "https://en.wikipedia.org/wiki/Aesculus"
       }
+    },
+    "Info": {
+      "OppositeBuds": true
     }
   },
   {
@@ -543,6 +603,9 @@
         "value": "Juniperus",
         "href": "https://en.wikipedia.org/wiki/Juniper"
       }
+    },
+    "Info": {
+      "OppositeBuds": false
     }
   },
   {
@@ -569,6 +632,9 @@
         "value": "Salix",
         "href": "https://en.wikipedia.org/wiki/Willow"
       }
+    },
+    "Info": {
+      "OppositeBuds": false
     }
   },
   {
@@ -595,6 +661,9 @@
         "value": "Quercus",
         "href": "https://en.wikipedia.org/wiki/Oak"
       }
+    },
+    "Info": {
+      "OppositeBuds": false
     }
   },
   {
@@ -621,6 +690,9 @@
         "value": "Sorbus",
         "href": "https://en.wikipedia.org/wiki/Sorbus"
       }
+    },
+    "Info": {
+      "OppositeBuds": false
     }
   },
   {
@@ -647,6 +719,9 @@
         "value": "Pinus",
         "href": "https://en.wikipedia.org/wiki/Pine"
       }
+    },
+    "Info": {
+      "OppositeBuds": false
     }
   },
   {
@@ -673,6 +748,9 @@
         "value": "Quercus",
         "href": "https://en.wikipedia.org/wiki/Oak"
       }
+    },
+    "Info": {
+      "OppositeBuds": false
     }
   },
   {
@@ -699,6 +777,9 @@
         "value": "Betula",
         "href": "https://en.wikipedia.org/wiki/Birch"
       }
+    },
+    "Info": {
+      "OppositeBuds": false
     }
   },
   {
@@ -725,6 +806,9 @@
         "value": "Euonymus",
         "href": "https://en.wikipedia.org/wiki/Euonymus"
       }
+    },
+    "Info": {
+      "OppositeBuds": true
     }
   },
   {
@@ -751,6 +835,9 @@
         "value": "Castanea",
         "href": "https://en.wikipedia.org/wiki/Chestnut"
       }
+    },
+    "Info": {
+      "OppositeBuds": false
     }
   },
   {
@@ -777,6 +864,9 @@
         "value": "Acer",
         "href": "https://en.wikipedia.org/wiki/Maple"
       }
+    },
+    "Info": {
+      "OppositeBuds": true
     }
   },
   {
@@ -803,6 +893,9 @@
         "value": "Viburnum",
         "href": "https://en.wikipedia.org/wiki/Viburnum"
       }
+    },
+    "Info": {
+      "OppositeBuds": true
     }
   },
   {
@@ -829,6 +922,9 @@
         "value": "Populus",
         "href": "https://en.wikipedia.org/wiki/Populus"
       }
+    },
+    "Info": {
+      "OppositeBuds": false
     }
   },
   {
@@ -855,6 +951,9 @@
         "value": "Sorbus",
         "href": "https://en.wikipedia.org/wiki/Sorbus"
       }
+    },
+    "Info": {
+      "OppositeBuds": false
     }
   },
   {
@@ -881,6 +980,9 @@
         "value": "Prunus",
         "href": "https://en.wikipedia.org/wiki/Prunus"
       }
+    },
+    "Info": {
+      "OppositeBuds": false
     }
   },
   {
@@ -907,6 +1009,9 @@
         "value": "Ulmus",
         "href": "https://en.wikipedia.org/wiki/Elm"
       }
+    },
+    "Info": {
+      "OppositeBuds": false
     }
   },
   {
@@ -933,6 +1038,9 @@
         "value": "Taxus",
         "href": "https://en.wikipedia.org/wiki/Taxus"
       }
+    },
+    "Info": {
+      "OppositeBuds": false
     }
   },
   {
@@ -957,8 +1065,11 @@
       },
       "Genus": {
         "value": "Larix",
-        "href": "https://en.wikipedia.org/wiki/Larix"
+        "href": "https://en.wikipedia.org/wiki/Larch"
       }
+    },
+    "Info": {
+      "OppositeBuds": false
     }
   }
 ]

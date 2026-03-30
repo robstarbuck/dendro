@@ -12,13 +12,15 @@
   --bg: #fffffc;
 
   --padding: 3rem;
-  --width: calc(50vw - var(--padding) - var(--padding));
   width: 100vw;
+  max-width: 1600px;
+  margin: 0 auto;
   font-family: "JetBrains Mono", monospace;
   font-size: .8rem;
   line-height: 1.25rem;
   display: grid;
-  grid-template-columns: 50% 50%;
+  grid-template-columns: 1fr 1fr;
+  gap: var(--padding);
 }
 
 * {
@@ -33,6 +35,7 @@
   /* Optional: Give it a name to target it specifically later */
   container-name: layout;
   padding: var(--padding);
+  padding-right: 0;
   --indent: calc((100cqw / 4));
   display: grid;
   gap: 1rem;
@@ -115,7 +118,7 @@ a:hover {
 header {
   top: 0;
   position: sticky;
-  height: 3rem;
+  height: var(--padding);
   display: flex;
   z-index: 2;
   background: var(--bg);
@@ -156,13 +159,14 @@ i {
   font-size: calc(var(--tile) / 2);
 }
 
-aside > div {
+aside>div {
   position: sticky;
   top: 0;
-  padding: 2rem;
+  padding: var(--padding);
+  padding-left: 0;
   display: flex;
   flex-direction: column;
-  gap: calc(var(--tile) / 2);
+  gap: 1rem;
   background: var(--bg);
   z-index: 10;
 }
@@ -195,4 +199,11 @@ aside>legend {
   right: var(--tile);
   height: var(--tile);
   z-index: 10;
+}
+
+.clear-taxon {
+  stroke-width: var(--close-line-width, 1px);
+  background-color: var(--mid-light);
+  stroke: black;
+  cursor: pointer;
 }

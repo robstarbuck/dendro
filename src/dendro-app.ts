@@ -1,18 +1,10 @@
-import {
-  css,
-  html,
-  LitElement,
-  nothing,
-  svg,
-  TemplateResult,
-  unsafeCSS,
-} from "lit";
+import { html, LitElement, nothing, svg, TemplateResult, unsafeCSS } from "lit";
 import { customElement, property, state } from "lit/decorators.js";
 
 import styles from "./style/app.css?inline";
 import reset from "./style/reset.css?inline";
 
-import allTrees from "./assets/data.json" with { type: "json" };
+import allTrees from "./assets/tree-data.json" with { type: "json" };
 
 type Tree = (typeof allTrees)[number];
 
@@ -108,10 +100,10 @@ export class DendroApp extends LitElement {
     this.selectedTaxon = [rank, rankValue];
   }
 
-  private _matchingTaxonomy(selectedTaxon: SelectedTaxon) {
+  private _matchingTree(selectedTaxon: SelectedTaxon) {
     return allTrees.find((t) =>
       t.Taxonomy[selectedTaxon[0]].value === selectedTaxon[1]
-    )?.Taxonomy;
+    );
   }
 
   private renderTaxonomy(props: TaxonomyProps): TemplateResult {
@@ -125,7 +117,7 @@ export class DendroApp extends LitElement {
     }, []);
 
     const matchingTaxonmy = this.selectedTaxon
-      ? this._matchingTaxonomy(this.selectedTaxon)
+      ? this._matchingTree(this.selectedTaxon)?.Taxonomy
       : undefined;
 
     return html`
@@ -149,10 +141,9 @@ export class DendroApp extends LitElement {
             this.selectedRanks(this.selectedTaxon).includes(rank);
 
           return html`
-            <details
+            <details @click=${(e: Event) => e.preventDefault()}
               ?open="${hasSubrank}"
               title="${title}"
-              style="pointer-events: ${hasSubrank ? "auto" : "none"}"
             >
               <summary class="${isSelected ? "selected" : ""}">
                 <a
@@ -180,24 +171,29 @@ export class DendroApp extends LitElement {
     if (selectedTaxon === undefined) {
       return nothing;
     }
-    const matchingTaxonmy = this._matchingTaxonomy(selectedTaxon);
+    const matchingTree = this._matchingTree(selectedTaxon);
 
-    if (matchingTaxonmy === undefined) {
+    if (matchingTree === undefined) {
       return nothing;
     }
 
+    const matchingTaxonmy = matchingTree.Taxonomy;
+
     return html`
-      <svg
-        viewBox="0 0 24 24"
-        width="24"
-        height="24"
-        fill="none"
-        @click="${this._onTaxonClear}"
-        style="stroke-width: var(--close-line-width, 2px);background-color: red; stroke: black;"
-      >
-        <line x1="6" y1="6" x2="18" y2="18" />
-        <line x1="18" y1="6" x2="6" y2="18" />
-      </svg>
+      <nav>
+        <svg
+          viewBox="0 0 24 24"
+          width="24"
+          height="24"
+          fill="none"
+          @click="${this._onTaxonClear}"
+          class="clear-taxon"
+        >
+          <line x1="6" y1="6" x2="18" y2="18" />
+          <line x1="18" y1="6" x2="6" y2="18" />
+        </svg>
+        ${selectedTaxon[0] === "Species" ? matchingTree.Name : selectedTaxon[1]}
+      </nav>
       <ul>
         ${this.selectedRanks(selectedTaxon).map((r) => {
           return html`
@@ -212,6 +208,7 @@ export class DendroApp extends LitElement {
           `;
         })}
       </ul>
+      
     `;
   }
 
