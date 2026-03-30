@@ -6,7 +6,7 @@ export default defineConfig({
   plugins: [deno()],
   build: {
     lib: {
-      entry: 'src/my-element.ts',
+      entry: 'src/dendro-app.ts',
       formats: ['es'],
     },
     rollupOptions: {
