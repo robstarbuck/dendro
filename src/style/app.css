@@ -14,7 +14,7 @@
   --bg: #fffffc;
 
   --padding: 3rem;
-  
+
   width: 100vw;
   max-width: 1600px;
   margin: 0 auto;
@@ -35,6 +35,8 @@ a {
   color: initial;
   cursor: pointer;
   pointer-events: stroke;
+  font-weight: bold;
+  text-decoration: underline;
 }
 
 button {

@@ -222,7 +222,7 @@ export class DendroApp extends LitElement {
       <ul>
         ${this.selectedRanks(selectedTaxon).map((r) => {
           return html`
-            <li>${r}: ${matchingTaxonmy[r].value}</li>
+            <li>${r}: <a href="${matchingTaxonmy[r].href}" target="_blank">${matchingTaxonmy[r].value}</a></li>
             ${"Description" in matchingTaxonmy[r]
               ? html`
                 <article>
