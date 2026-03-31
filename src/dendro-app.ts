@@ -65,17 +65,37 @@ export class DendroApp extends LitElement {
     super.connectedCallback();
     // Listen on top most element for key press
     document.addEventListener("keyup", this.onKeyup);
+    globalThis.addEventListener("popstate", this.handlePopstate);
+    this.handlePopstate();
   }
 
   override disconnectedCallback() {
     super.disconnectedCallback();
     document.removeEventListener("keyup", this.onKeyup);
+    globalThis.removeEventListener("popstate", this.handlePopstate);
   }
+
+  private isRank = (rank?: string | null): rank is TaxonomicRank => {
+    return this.allRanks.includes(rank as TaxonomicRank);
+  };
+  
+
+  private handlePopstate = () => {
+    const url = new URL(globalThis.location.href);
+    const rank = url.searchParams.get("rank");
+    const value = url.searchParams.get("value");
+
+    if (this.isRank(rank) && value) {
+      this.selectedTaxon = [rank, value];
+    } else {
+      this.selectedTaxon = undefined;
+    }
+  };
 
   private onKeyup = (e: KeyboardEvent) => {
     switch (e.key) {
       case "Escape": {
-        this.selectedTaxon = undefined;
+        this._onTaxonClear();
         break;
       }
     }
@@ -94,10 +114,18 @@ export class DendroApp extends LitElement {
 
   private _onTaxonClear() {
     this.selectedTaxon = undefined;
+    const url = new URL(globalThis.location.href);
+    url.searchParams.delete("rank");
+    url.searchParams.delete("value");
+    globalThis.history.pushState({}, "", url);
   }
 
   private _onTaxonSelect(rank: TaxonomicRank, rankValue: string) {
     this.selectedTaxon = [rank, rankValue];
+    const url = new URL(globalThis.location.href);
+    url.searchParams.set("rank", rank);
+    url.searchParams.set("value", rankValue);
+    globalThis.history.pushState({}, "", url);
   }
 
   private _matchingTree(selectedTaxon: SelectedTaxon) {
