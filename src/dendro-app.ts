@@ -1,5 +1,5 @@
 import { html, LitElement, nothing, svg, TemplateResult, unsafeCSS } from "lit";
-import { customElement, property, state } from "lit/decorators.js";
+import { customElement, state } from "lit/decorators.js";
 
 import styles from "./style/app.css?inline";
 import reset from "./style/reset.css?inline";
@@ -48,16 +48,16 @@ const logo = svg`
 
 @customElement("dendro-app")
 export class DendroApp extends LitElement {
-  @property({ type: Array })
-  allRanks: Array<TaxonomicRank> = [
+
+  @state()
+  private selectedTaxon?: SelectedTaxon;
+  
+  private readonly allRanks: Array<TaxonomicRank> = [
     "Order",
     "Family",
     "Genus",
     "Species",
   ];
-
-  @state()
-  private selectedTaxon?: SelectedTaxon;
 
   static override styles = [unsafeCSS(reset), unsafeCSS(styles)];
 
